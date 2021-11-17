@@ -1,0 +1,531 @@
+@media only screen and (max-width: 1830px) {
+  .driver img {
+    margin-right: 0px;
+    height: 625px;
+  }
+}
+
+@media only screen and (max-width: 1505px) {
+  .logo img {
+    width: 224px;
+    height: 57px;
+  }
+
+  nav a {
+    margin-right: 30px;
+  }
+
+  .phone {
+    margin-right: 28px;
+  }
+
+  .phone p {
+    font-size: 12px;
+  }
+
+  .driver img {
+    height: 575px;
+  }
+
+  .offer {
+    margin-left: 125px;
+  }
+
+  .offer h1 {
+    font-size: 50px;
+  }
+
+  .offer p {
+    font-size: 20px;
+    width: 460px;
+  }
+
+  .offer button {
+    font-size: 17px;
+    padding: 25px 47px;
+  }
+}
+
+@media only screen and (max-width: 1320px) {
+  .driver img {
+    height: 535px;
+  }
+
+  .offer h1 {
+    font-size: 37px;
+  }
+
+  .offer {
+    margin-left: 75px;
+  }
+
+  .offer h1 {
+    font-size: 40px;
+  }
+
+  .offer p {
+    font-size: 16px;
+    width: 410px;
+  }
+
+  .offer button {
+    font-size: 15px;
+    padding: 20px 35px;
+  }
+}
+
+@media only screen and (max-width: 1150px) {
+  .logo img {
+    width: 189px;
+    height: 45px;
+  }
+
+  nav a {
+    font-size: 14px;
+    margin-right: 14px;
+  }
+
+  .phone p {
+    font-size: 10px;
+  }
+
+  .cartImage {
+    width: 35px;
+  }
+
+  .cart p {
+    font-size: 13px;
+  }
+
+  .driver img {
+    height: 480px;
+  }
+
+  .offer h1 {
+    font-size: 27px;
+  }
+
+  .offer {
+    margin-left: 65px;
+  }
+
+  .offer h1 {
+    font-size: 30px;
+  }
+
+  .offer p {
+    font-size: 14px;
+    width: 385px;
+  }
+
+  .offer button {
+    font-size: 13px;
+    padding: 15px 25px;
+  }
+}
+
+@media only screen and (max-width: 1150px) {
+  nav a {
+    font-size: 12px;
+    margin-right: 12px;
+  }
+
+  .driver img {
+    height: 380px;
+  }
+
+  .offer h1 {
+    font-size: 20px;
+  }
+
+  .offer {
+    margin-left: 35px;
+  }
+
+  .offer h1 {
+    font-size: 25px;
+  }
+
+  .offer p {
+    font-size: 12px;
+    width: 355px;
+  }
+
+  .offer button {
+    font-size: 12px;
+    padding: 12px 22px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .logo img {
+    width: 129px;
+    height: 37px;
+  }
+
+  nav a {
+    font-size: 11px;
+    margin-right: 11px;
+  }
+
+  nav {
+    margin-left: 45px;
+    margin-right: 25px;
+  }
+
+  .phone p {
+    font-size: 8px;
+  }
+
+  .phone img {
+    margin-right: 4px;
+    width: 9px;
+  }
+
+  .cartImage {
+    width: 25px;
+  }
+
+  .cart p {
+    font-size: 11px;
+  }
+
+  .driver img {
+    height: 295px;
+  }
+
+  .offer h1 {
+    font-size: 17px;
+  }
+
+  .offer {
+    margin-left: 15px;
+  }
+
+  .offer h1 {
+    font-size: 20px;
+  }
+
+  .offer p {
+    font-size: 11px;
+    width: 325px;
+  }
+
+  .offer button {
+    font-size: 11px;
+    padding: 11px 18px;
+  }
+
+  .card {
+    margin-left: 25px;
+    width: 180px;
+  }
+
+  .nameProduct {
+    padding-top: 25px;
+    padding-left: 12px;
+  }
+
+  .nameProduct img {
+    padding-left: 3px;
+  }
+  .productImg {
+    height: 100px;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  nav a {
+    font-size: 8px;
+    margin-right: 8px;
+  }
+
+  nav {
+    margin-left: 35px;
+    margin-right: 18px;
+  }
+
+  .phone p {
+    font-size: 7px;
+  }
+
+  .cartImage {
+    width: 18px;
+  }
+
+  .cart p {
+    font-size: 9px;
+  }
+
+  .cart .arrowImage {
+    width: 8px;
+    height: 3px;
+  }
+
+  .driver img {
+    height: 235px;
+  }
+
+  .offer h1 {
+    font-size: 18px;
+    margin-bottom: 14px;
+  }
+
+  .offer p {
+    line-height: 22px;
+    margin-bottom: 14px;
+    font-size: 10px;
+    width: 300px;
+  }
+
+  .card {
+    margin-left: 15px;
+    width: 160px;
+  }
+
+  .nameProduct {
+    padding-top: 15px;
+    padding-left: 9px;
+    font-size: 12px;
+  }
+
+  .nameProduct img {
+    padding-left: 3px;
+  }
+  .productImg {
+    height: 80px;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  .logo img {
+    width: 110px;
+    height: 32px;
+  }
+
+  .driver img {
+    height: 210px;
+  }
+
+  .offer h1 {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+
+  .offer p {
+    line-height: 20px;
+    margin-bottom: 12px;
+    font-size: 8px;
+    width: 280px;
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  nav a {
+    font-size: 7px;
+    margin-right: 7px;
+  }
+
+  nav {
+    margin-left: 22px;
+    margin-right: 10px;
+  }
+
+  .cart p {
+    font-size: 7px;
+  }
+
+  .cart .arrowImage {
+    width: 7px;
+    height: 2px;
+  }
+
+  .cartImage {
+    width: 16px;
+  }
+
+  .driver img {
+    height: 180px;
+  }
+
+  .offer h1 {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .offer p {
+    line-height: 17px;
+    margin-bottom: 10px;
+    font-size: 7px;
+    width: 250px;
+  }
+
+  .offer {
+    margin-left: 10px;
+  }
+
+  .offer button {
+    font-size: 7px;
+    padding: 7px 14px;
+  }
+
+  .card {
+    margin-left: 10px;
+    width: 120px;
+  }
+
+  .nameProduct {
+    padding-top: 12px;
+    padding-left: 7px;
+    font-size: 10px;
+  }
+
+  .nameProduct img {
+    padding-left: 2px;
+  }
+  .productImg {
+    height: 45px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .logo img {
+    width: 100px;
+    height: 29px;
+  }
+
+  nav a {
+    font-size: 5px;
+    margin-right: 5px;
+  }
+
+  nav {
+    margin-left: 14px;
+    margin-right: 5px;
+  }
+
+  .phone {
+    margin-right: 12px;
+  }
+
+  .driver img {
+    height: 150px;
+  }
+
+  .offer h1 {
+    font-size: 10px;
+    margin-bottom: 5px;
+  }
+
+  .offer p {
+    line-height: 14px;
+    margin-bottom: 5px;
+    font-size: 5px;
+    width: 220px;
+  }
+
+  .offer {
+    margin-left: 7px;
+  }
+}
+
+@media only screen and (max-width: 415px) {
+  .logo img {
+    width: 85px;
+    height: 24px;
+  }
+
+  nav a {
+    font-size: 1px;
+    margin-right: 3px;
+  }
+
+  nav {
+    margin-left: 8px;
+    margin-right: 3px;
+  }
+
+  .phone p {
+    font-size: 4px;
+  }
+
+  .phone img {
+    margin-right: 2px;
+    width: 5px;
+  }
+
+  .cart p {
+    font-size: 4px;
+  }
+
+  .cart .arrowImage {
+    width: 4px;
+  }
+
+  .cartImage {
+    width: 12px;
+  }
+
+  .cart .cartImage {
+    margin-right: 4px;
+  }
+
+  .driver img {
+    height: 130px;
+  }
+
+  .offer h1 {
+    font-size: 8px;
+    margin-bottom: 3px;
+  }
+
+  .offer p {
+    line-height: 10px;
+    margin-bottom: 3px;
+    font-size: 4px;
+    width: 200px;
+  }
+
+  .offer {
+    margin-left: 4px;
+  }
+
+  .card {
+    margin-left: 6px;
+    width: 85px;
+  }
+
+  .nameProduct {
+    padding-top: 6px;
+    padding-left: 4px;
+    font-size: 5px;
+  }
+
+  .nameProduct img {
+    padding-left: 1px;
+    width: 12px;
+    height: 6px;
+  }
+  .productImg {
+    height: 25px;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .logo img {
+    width: 70px;
+    height: 20px;
+  }
+
+  .phone p {
+    font-size: 3px;
+  }
+
+  .phone img {
+    width: 4px;
+  }
+
+  .driver img {
+    height: 100px;
+  }
+}
