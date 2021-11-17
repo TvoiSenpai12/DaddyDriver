@@ -93,6 +93,7 @@ main {
   display: flex;
   align-items: center;
   color: #c4dfe6;
+  min-height: calc(100vh - 200px);
 }
 
 .offer {
